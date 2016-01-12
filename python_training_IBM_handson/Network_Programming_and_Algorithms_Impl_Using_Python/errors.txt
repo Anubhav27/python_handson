@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "understanding_sys_module.py", line 30, in <module>
+    x = 10 / 0
+ZeroDivisionError: integer division or modulo by zero

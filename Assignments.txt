@@ -1,0 +1,49 @@
+              Real life problems
+
+
+1) Audio (compressiing,processing,)
+2) video (compressing, processing)
+
+3) Text
+4) images
+5) forms
+6) user inputs
+
+
+
+7) user location
+
+
+
+
+                WAP in python with proper algorithm for
+
+
+
+1) to know the current date and time of a system
+2) to know the recent installed programs
+3) to search for particular types of files(zip,with short name etc)
+4) to copy ulk files of of different types
+5) to know th eperformance of system
+6) to know any open ports in a system
+7) to play a music file or movie using python
+8) to record a voice 
+9) to connect to database and confirgure server with python
+10) to get results from database and display 
+11) GUI programming using python
+12) python frameworks
+13) interview questions using python
+14) image libraries,socket libraries,fb development,tiwtter development,JSON,and google apis using python
+15) android with python
+
+ how to give input in python
+
+ how to read and write to file in python
+
+ how to connect to database and retreive values form it (mysql and mongodb)
+
+ how to do web dev in python
+
+ how to different apis using python
+
+ modules,libraries and packages in python
